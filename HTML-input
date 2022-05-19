@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+ <html>
+     <head></head>
+     <title>HTML-input</HTML-input></title>
+<form class="">
+    <input type="text">
+    <input type="submit">
+    <input type="file">
+    <input type="date">
+    <input type="radio">
+    <input typr="range">
+</form>
+</html>
